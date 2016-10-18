@@ -8,13 +8,7 @@ import org.apache.http.util.EntityUtils;
 /**
  * A simple Java REST GET example using the Apache HTTP library.
  * This executes a call against the Yahoo Weather API service, which is
- * actually an RSS service (http://developer.yahoo.com/weather/).
- * 
- * Try this Twitter API URL for another example (it returns JSON results):
- * http://search.twitter.com/search.json?q=%40apple
- * (see this url for more twitter info: https://dev.twitter.com/docs/using-search)
- * 
- * Apache HttpClient: http://hc.apache.org/httpclient-3.x/
+ * actually an RSS service (http://developer.yahoo.com/weather/)
  *
  */
 public class ApacheHttpRestClient1 {
